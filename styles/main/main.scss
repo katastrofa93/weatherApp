@@ -1,0 +1,22 @@
+.current {
+    width: 270px;
+    box-shadow: 3px 3px 10px 5px #ccc;
+}
+.current__cart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.current__country {
+}
+.current__city {
+}
+.current__temp {
+}
+.current__img {
+}
+.main_showWeather{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
